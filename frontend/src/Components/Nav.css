@@ -1,0 +1,80 @@
+.nav{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo{
+    width: 5%;
+    margin-left: 1%;
+    margin-top: 10px;
+    border-radius: 13px;
+}
+
+.searchBox{
+    width: 25%;
+    margin-top: 10px;
+    margin-left: 5%;
+    height: 35px;
+    border-radius: 5px 1px 1px 5px;
+    border-width: 1px;
+    padding-left: 8px;
+    border-color: rgb(84, 163, 117);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+
+.searchBox:focus{
+    outline: none;
+}
+
+.search{
+    background-color: rgb(84, 163, 117);
+    margin-top: 10px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.signup{
+    margin-left: 33%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+.signup:hover{
+    text-decoration: underline;
+}
+
+.login{
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login:hover{
+    text-decoration: underline;
+}
+
+.wishlist{
+    margin-left: 7%;
+    margin-top: 10px; 
+    cursor: pointer;
+}
+
+.cart{
+    margin-left: 1%;
+    margin-top: 2px; 
+    cursor: pointer;   
+}

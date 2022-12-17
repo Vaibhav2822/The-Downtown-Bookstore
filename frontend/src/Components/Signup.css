@@ -1,0 +1,47 @@
+.SignUp-Template{
+    background-image: url('../Assets/bgImage.png');
+    position: relative;
+}
+
+.Signup{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.input-fields{
+    width: 35%;
+    margin-top: 30px;
+    margin-left: 35%;
+    height: 45px;
+    border-radius: 5px 5px 5px 5px;
+    border-width: 1px;
+    padding-left: 8px;
+    border-color: rgb(84, 163, 117);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.input-fields:focus{
+    outline: none;
+}
+
+.signUpBtn{
+     margin-top: 2.3%;
+     margin-bottom: 9%;
+     margin-left: 50%;
+     padding-top: 0.5%;
+     padding-bottom: 1%;
+     width: 7%;
+     font-size: 20px;
+     font-weight: 600;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+     border: 2px;
+     border-radius: 5px;
+     cursor: pointer;
+}

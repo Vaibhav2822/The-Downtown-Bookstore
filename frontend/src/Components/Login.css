@@ -1,0 +1,47 @@
+.login-Template{
+    background-image: url('../Assets/bgImage.png');
+}
+
+.loginText{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.login-input-fields{
+    width: 35%;
+    margin-top: 50px;
+    margin-left: 35%;
+    height: 45px;
+    border-radius: 5px 5px 5px 5px;
+    border-width: 1px;
+    padding-left: 8px;
+    border-color: rgb(84, 163, 117);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+}
+
+.login-input-fields:focus{
+    outline: none;
+}
+
+.loginBtn{
+    margin-top: 5%;
+    margin-bottom: 9%;
+    margin-left: 50%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    width: 7%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    border: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}

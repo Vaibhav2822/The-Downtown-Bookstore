@@ -1,0 +1,80 @@
+.home-page{
+    overflow-x: hidden;
+}
+.home-img{
+   width: 100%;
+   height: 555px;
+   margin-top: 2%;
+}
+.margin-top{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 3%;
+}
+.bestSeller{
+    display: inline-block;
+    margin-left: 4%;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+.Mysteries{
+    display: inline-block;
+    margin-left: 6%;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+.Romance{
+    display: inline-block;
+    margin-left: 6%;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+.Thrillers{
+    display: inline-block;
+    margin-left: 6%;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+.Science-Fiction{
+    display: inline-block;
+    margin-left: 7%;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(84, 163, 117);
+    text-decoration: none;
+    cursor: pointer;
+}
+.margin-bottom{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+}
+.leftarrow{
+    width: 29px;
+    height: 23px;
+    fill:rgb(84, 163, 117);
+    margin-left: 4%;
+}
+.rightarrow{
+    width: 29px;
+    height: 23px;
+    fill:rgb(84, 163, 117);
+    margin-left: 3%;
+}
